@@ -9,7 +9,6 @@
   },
   "dependencies": {
     "@auth0/auth0-spa-js": "^1.6.0",
-    "airtable": "^0.8.1",
     "bootstrap": "^4.3.1",
     "bootstrap-vue": "^2.0.0-rc.19",
     "core-js": "^2.6.5",
